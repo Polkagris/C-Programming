@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1454944050 source:c:\users\noticemesenpai\desktop\c_tutorials\arnesoving2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+
