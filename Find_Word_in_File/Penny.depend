@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1453139437 source:c:\users\noticemesenpai\desktop\c_tutorials\penny\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1465682327 source:c:\users\noticemesenpai\desktop\digitek\c_tutorials\penny\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509398602 source:c:\users\noticemesenpai\desktop\skrivebord\arnes dokumenter\tidligere fag\digitek\c_tutorials\penny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
